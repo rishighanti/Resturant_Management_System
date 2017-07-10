@@ -1,0 +1,3 @@
+# Resturant_Management_System
+
+The intent of the restaurant database is to store all the data a restaurant owner will need to manage his restaurant. The menu items will be stored along with their corresponding prices. Details of every order ordered by the customer in the restaurant will be stored in the database including the name of the waiter who served them and table number they were seated on. The database will also store the details of every customer who has visited the restaurant. This will allow the restaurant to provide better customer service to its customers since they will beforehand have the data about the customers. Also the bill amounts for each meal is stored in the database. 
